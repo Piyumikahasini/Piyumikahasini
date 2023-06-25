@@ -1,7 +1,10 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://Piyumikahasini.io)
 <h1 align="center">Hi 👋, I'm Hasini Piyumika</h1>
 <h3 align="center">"Coding Chronicles: My GitHub Adventure"</h3>
- 🌱 I’m currently learning **Java**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyumikahasini&label=Profile%20views&color=0e75b6&style=flat" alt="piyumikahasini" /> </p>
+
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **hasinipiyumika617@gmail.com**
 
