@@ -1,11 +1,17 @@
 ![logo](https://github.com/Piyumikahasini/Hasini-Piyumika/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👩, I'm Hasini Piyumika</h1>
+<h1 align="center">Hi 🖐, I'm Hasini Piyumika</h1>
 <h3 align="center">"Coding Chronicles: My GitHub Adventure"</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyumikahasini&label=Profile%20views&color=0e75b6&style=flat" alt="piyumikahasini" /> </p>
 
-- 🌱 I’m currently learning **HTML and CSS**
+ 💻 I'm a undergraduate of software engineering. I'm mainly focusing on ReactJS, Spring-boot, Node's,Java.  
+My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-- 📫 How to reach me **hasinipiyumika617@gmail.com**
+🎓 Educations
+- Graduate Diploma in Marketing Managment - OUSL
+  
+- Graduate Diploma in Software Engineering - IJSE
+
+- Advanced Level in Biological Science - Christ Church Girls' College
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
