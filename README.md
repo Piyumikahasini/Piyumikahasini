@@ -1,3 +1,4 @@
+![logo](https://github.com/Piyumikahasini/Hasini-Piyumika/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👩, I'm Hasini Piyumika</h1>
 <h3 align="center">"Coding Chronicles: My GitHub Adventure"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
