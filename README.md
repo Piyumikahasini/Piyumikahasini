@@ -3,13 +3,15 @@
 <h3 align="center">"Coding Chronicles: My GitHub Adventure"</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyumikahasini&label=Profile%20views&color=0e75b6&style=flat" alt="piyumikahasini" /> </p>
 
- 💻 I'm a undergraduate of software engineering. I'm mainly focusing on ReactJS, Spring-boot, Node's,Java.  
+  I'm a undergraduate of software engineering. I'm mainly focusing on ReactJS, Spring-boot, Node's,Java.  
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-🎓 Educations
+ Educations
 - Graduate Diploma in Marketing Managment - OUSL
   
 - Graduate Diploma in Software Engineering - IJSE
+
+- Graduate Diploma in Phamaciology(While doing)
 
 - Advanced Level in Biological Science - Christ Church Girls' College
 
