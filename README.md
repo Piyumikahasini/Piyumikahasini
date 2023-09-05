@@ -11,7 +11,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
   
 - Graduate Diploma in Software Engineering - IJSE
 
-- Graduate Diploma in Phamaciology(While doing)
+- Graduate Diploma in Phamacology(While doing)
 
 - Advanced Level in Biological Science - Christ Church Girls' College
 
