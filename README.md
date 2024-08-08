@@ -5,7 +5,7 @@
 Energetic and passionate Software Engineering Undergraduate.working towards improving knowledge and skills in IT industry. 
 Looking forward for opportunities to enhance my capabilities while contributing to the enhancement of the organization.
 - 🌱 I’m currently learning **Computer Science and Software Engineering**
-- 🖥️  See my portfolio at [My Website]( https://github.com/Piyumikahasini/MyPortfolio.git/)
+- 🖥️  See my portfolio at [My Website]( https://piyumikahasini.github.io/MyPortfolio/)
 - 🎓 I’m currently learning at **IJSE(Institute of Software Engineering)**
 - 📫 How to reach me **hasinipiyumika617@gmail.com**
 - 🧠  I'm learning React, nest, Express 
