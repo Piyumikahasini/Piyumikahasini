@@ -8,7 +8,7 @@ Looking forward for opportunities to enhance my capabilities while contributing 
 - 🖥️  See my portfolio at [My Website]( https://piyumikahasini.github.io/MyPortfolio/)
 - 🎓 I’m currently learning at **IJSE(Institute of Software Engineering)**
 - 📫 How to reach me **hasinipiyumika617@gmail.com**
-- 🧠  I'm learning React, nest, Express 
+
 
 </br>
 
