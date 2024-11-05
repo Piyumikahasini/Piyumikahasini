@@ -40,7 +40,6 @@ Looking forward for opportunities to enhance my capabilities while contributing 
 [<img align="left" alt=" | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][facebook]
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/instagram.svg" />][instagram]
 [<img align="left" alt="| StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][stackOverFlow]
-[<img align="left" alt="| DEV" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][DEV]
 
 [linkedin]: https://www.linkedin.com/in//
 [facebook]: https://www.facebook.com//
