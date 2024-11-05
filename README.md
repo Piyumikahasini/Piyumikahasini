@@ -4,10 +4,12 @@
 
 Energetic and passionate Software Engineering Undergraduate.working towards improving knowledge and skills in IT industry. 
 Looking forward for opportunities to enhance my capabilities while contributing to the enhancement of the organization.
-- 🌱 I’m currently learning **Computer Science and Software Engineering**
-- 🖥️  See my portfolio at [My Website]( https://piyumikahasini.github.io/MyPortfolio/)
-- 🎓 I’m currently learning at **IJSE(Institute of Software Engineering)**
+
 - 📫 How to reach me **hasinipiyumika617@gmail.com**
+- 🖥️  See my portfolio at [My Website]( https://piyumikahasini.github.io/MyPortfolio/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyumikahasini&label=Profile%20views&color=0e75b6&style=flat" alt="piyumikahasini" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyumikahasini" alt="piyumikahasini" /></a> </p>
 
 
 </br>
@@ -44,6 +46,8 @@ Looking forward for opportunities to enhance my capabilities while contributing 
 [facebook]: https://www.facebook.com//
 [instagram]: https://www.instagram.com//
 [stackOverFlow]: https://stackoverflow.com/users/13898644/
+
+
 
 
 
