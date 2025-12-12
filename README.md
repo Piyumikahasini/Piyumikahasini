@@ -43,8 +43,6 @@ Looking forward for opportunities to enhance my capabilities while contributing 
 
 [linkedin]: https://www.linkedin.com/in//
 [facebook]: https://www.facebook.com//
-[instagram]: https://www.instagram.com//
-[stackOverFlow]: https://stackoverflow.com/users/13898644/
 
 
 
